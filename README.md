@@ -30,11 +30,4 @@
 </div>
 <br>
 
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindo0118&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=mindo0118&show_icons=true">
-
-<br>
-
 ![](./profile-3d-contrib/profile-season-animate.svg)
